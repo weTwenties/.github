@@ -83,8 +83,7 @@ browser-based editors, and automation-assisted engineering workflows.
 - API, database, storage, and deployment integration
 - Technical discovery and solution design
 
-`React` · `Next.js` · `TypeScript` · `NestJS` · `Laravel`  
-`PostgreSQL` · `Redis` · `AWS` · `S3-compatible Storage`
+`React` · `Next.js` · `TypeScript` · `NestJS` · `Laravel` · `PostgreSQL` · `Redis` · `AWS` · `S3-compatible Storage`
 
 [GitHub](https://github.com/khanhvinhnguyen)
 
@@ -109,8 +108,7 @@ database data, APIs, payment sandboxes, and browser interactions.
 - Payment, fee, tax, and transaction-flow validation
 - Defect investigation with distributed engineering teams
 
-`Playwright` · `JavaScript` · `API Testing` · `Postman`  
-`Selenium` · `BDD/Cucumber` · `Jenkins` · `MySQL`
+`Playwright` · `JavaScript` · `API Testing` · `Postman` · `Selenium` · `BDD/Cucumber` · `Jenkins` · `MySQL`
 
 [GitHub](https://github.com/Mercersi) ·
 [Automation Project](https://github.com/Mercersi/core_auto_pwlr)
