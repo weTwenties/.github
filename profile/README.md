@@ -115,6 +115,31 @@ database data, APIs, payment sandboxes, and browser interactions.
 
 ---
 
+### Nam Giao — Product & Visual Designer
+
+Product and visual designer focused on creating marketing assets, digital
+experiences, and retail campaign materials across web, e-commerce, and
+offline touchpoints.
+
+She works across branding, social media, product campaigns, packaging,
+POSM, and design systems, combining visual communication with practical
+production constraints. She also incorporates AI-assisted workflows to
+improve creative iteration and delivery speed.
+
+**Focus areas**
+
+- Product and visual design
+- Branding and campaign identity
+- Social media and e-commerce creatives
+- POSM and retail marketing materials
+- Design systems and developer handoff
+- AI-assisted creative workflow
+
+`Figma` · `Adobe Creative Suite` · `Branding`
+`Social Media Design` · `POSM` · `Packaging`
+
+---
+
 ## How We Think
 
 We prefer justified complexity.
